@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://william-man.github.io/portfolio/</loc>
+         <loc>https://william-man.github.io/portfolio/index.html</loc>
          <lastmod>2025-02-24</lastmod>
     </url>
     <url>
-         <loc>https://william-man.github.io/portfolio/logs/log1/</loc>
+         <loc>https://william-man.github.io/portfolio/logs/log1.html</loc>
          <lastmod>2025-02-24</lastmod>
     </url>
     <url>
-         <loc>https://william-man.github.io/portfolio/logs/log2/</loc>
+         <loc>https://william-man.github.io/portfolio/logs/log2.html</loc>
          <lastmod>2025-02-24</lastmod>
     </url>
     <url>
-         <loc>https://william-man.github.io/portfolio/logs/log3/</loc>
+         <loc>https://william-man.github.io/portfolio/logs/log3.html</loc>
          <lastmod>2025-02-24</lastmod>
     </url>
     <url>
-         <loc>https://william-man.github.io/portfolio/logs/log4/</loc>
+         <loc>https://william-man.github.io/portfolio/logs/log4.html</loc>
          <lastmod>2025-02-24</lastmod>
     </url>
     <url>
-         <loc>https://william-man.github.io/portfolio/logs/log5/</loc>
+         <loc>https://william-man.github.io/portfolio/logs/log5.html</loc>
          <lastmod>2025-02-24</lastmod>
     </url>
     <url>
-         <loc>https://william-man.github.io/portfolio/logs/log6/</loc>
+         <loc>https://william-man.github.io/portfolio/logs/log6.html</loc>
          <lastmod>2025-02-24</lastmod>
     </url>
     <url>
-         <loc>https://william-man.github.io/portfolio/logs/log7/</loc>
+         <loc>https://william-man.github.io/portfolio/logs/log7.html</loc>
          <lastmod>2025-02-24</lastmod>
     </url>
     <url>
-         <loc>https://william-man.github.io/portfolio/projects/openssl/</loc>
+         <loc>https://william-man.github.io/portfolio/projects/openssl.html</loc>
          <lastmod>2025-02-24</lastmod>
     </url>
     <url>
-         <loc>https://william-man.github.io/portfolio/projects/twofactorextras/</loc>
+         <loc>https://william-man.github.io/portfolio/projects/twofactorextras.html</loc>
          <lastmod>2025-02-24</lastmod>
     </url>
 </urlset>
